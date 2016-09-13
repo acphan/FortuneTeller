@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fortune Teller</string>
+    <string-array name="fortune_array">
+        <item>You will pass this class!</item>
+        <item>Something good will come your way soon.</item>
+        <item>Watch yourself, something unexpected is coming your way.</item>
+        <item>Be wary, dark times are ahead.</item>
+        <item>You will live long and prosper.</item>
+        <item>Fear nothing, interesting things will find you.</item>
+        <item>Look about, your future significant other may be nearby.</item>
+        <item>You will seek the truth of the lies told.</item>
+    </string-array>
+</resources>
